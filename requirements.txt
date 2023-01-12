@@ -33,3 +33,5 @@ trove_classifiers==2022.12.22
 truststore==0.5.0
 urllib3_secure_extra==0.1.0
 xmlrpclib==1.0.1
+gunicorn==20.1.0
+
